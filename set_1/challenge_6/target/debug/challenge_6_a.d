@@ -1,0 +1,1 @@
+C:\Users\marcb\Desktop\Home\ code\cryptology_stuffs\crypto_challenges\set_1\challenge_6_a\target\debug\challenge_6_a.exe: C:\Users\marcb\Desktop\Home\ code\cryptology_stuffs\crypto_challenges\set_1\challenge_6_a\src\main.rs
