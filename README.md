@@ -47,4 +47,4 @@ By working through the CryptoPals challenges, you will learn about:
 
 The CryptoPals challenges are an excellent resource for anyone interested in learning cryptography. Whether you're a beginner or have some experience, the challenges will help you develop a deeper understanding of the principles and practices behind cryptography. The hands-on approach ensures that you not only learn the theory but also apply it in real-world scenarios.
 
-Visit the [CryptoPals website](https://cryptopals.com/) to start solving the challenges and improving your cryptography skills!
+[CryptoPals website](https://cryptopals.com/)
